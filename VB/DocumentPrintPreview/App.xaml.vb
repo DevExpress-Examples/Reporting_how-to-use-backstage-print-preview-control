@@ -11,7 +11,6 @@ Namespace DocumentPrintPreview
         Inherits Application
 
         Shared Sub New()
-            ApplicationThemeHelper.ApplicationThemeName = Theme.Office2016WhiteSEName
             AppDomain.CurrentDomain.SetData("DataDirectory", "..\..\Data")
         End Sub
     End Class

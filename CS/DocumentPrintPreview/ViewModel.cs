@@ -1,4 +1,4 @@
-﻿using DevExpress.DataAccess.Sql;
+using DevExpress.DataAccess.Sql;
 using DevExpress.DataAccess.Sql.DataApi;
 using DevExpress.Mvvm.POCO;
 using System.ComponentModel;

@@ -1,4 +1,4 @@
-Namespace DocumentPrintPreview
+﻿Namespace DocumentPrintPreview
 
     Partial Class EmployeeReport
 

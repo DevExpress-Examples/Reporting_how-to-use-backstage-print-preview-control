@@ -1,4 +1,4 @@
-﻿using DevExpress.Xpf.Core;
+using DevExpress.Xpf.Core;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -13,7 +13,6 @@ namespace DocumentPrintPreview {
     /// </summary>
     public partial class App : Application {
         static App() {
-            ApplicationThemeHelper.ApplicationThemeName = Theme.Office2016WhiteSEName;
             AppDomain.CurrentDomain.SetData("DataDirectory", @"..\..\Data");
         }
     }

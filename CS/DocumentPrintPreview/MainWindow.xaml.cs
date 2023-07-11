@@ -1,4 +1,4 @@
-﻿using DevExpress.Xpf.Core;
+using DevExpress.Xpf.Core;
 using System.Windows;
 
 namespace DocumentPrintPreview {
